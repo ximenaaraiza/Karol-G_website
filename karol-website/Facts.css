@@ -1,0 +1,74 @@
+body{
+    background-image: linear-gradient(to right, rgb(22, 255, 22), black, rgb(255, 196, 227));
+}
+
+h1{
+    font-family:font-family, 'Cormorant Garamond', serif;
+    font-family: 'Permanent Marker', cursive;  
+    color:rgb(255, 34, 225) ;
+    text-align: center;
+    margin: 100px 0px 0px 0px ;
+    font-size: 50px;
+}
+
+.div1{ 
+    width:33%;
+    height:800px;
+    float:left
+}
+
+.div2{
+    width:33%;
+    height:800px;
+    float:left
+}
+ .div3{
+    width:33%;
+    height:800px;
+    float:right
+ }
+
+ .k2{
+    height:250px;
+    margin:20px 30px 20px 150px;
+    border: solid 5px rgb(208, 73, 246);
+ }
+
+ 
+ .k1{
+    margin:20px 30px 20px 100px ;
+    height: 250px;
+    border: solid 5px rgb(72, 105, 252);
+ }
+
+ .k3{
+    margin:200px 30px 20px 70px ;
+    height: 250px;
+    border: solid 5px rgb(252, 228, 72);
+ }   
+
+ .k4{
+    height:250px;
+    margin:200px 30px 20px 110px;
+    border: solid 5px rgb(230, 54, 95);}
+
+ol{
+    font-size: 18px;
+    color:white;
+    font-family:font-family, 'Cormorant Garamond', serif;
+    font-family: 'Permanent Marker', cursive;  
+}
+.list{
+    margin:20px 0px 0px 0px 
+}
+
+button{
+    background-image: url(flowers.png);
+    background-size: cover;
+    border:rgb(237, 230, 237) solid 2px;
+    padding:25px 100px 25px 100px;
+    margin:30px 0px 0px 175px ;
+    color:rgb(219, 172, 206);
+    font-size: 19px;
+}
+
